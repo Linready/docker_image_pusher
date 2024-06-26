@@ -6,3 +6,4 @@ xhofe/alist:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:8.2.0
 1panel/openresty:1.21.4.3-3-2-focal
+xhofe/alist:v3.35.0
