@@ -1,7 +1,6 @@
 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql:8.2.0
@@ -9,3 +8,4 @@ mysql:8.2.0
 xhofe/alist:v3.35.0
 filebrowser/filebrowser:v2.30.0
 nocodb/nocodb:0.251.3
+vaultwarden/server:1.31.0
