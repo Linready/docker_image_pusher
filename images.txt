@@ -8,3 +8,4 @@ mysql:8.2.0
 1panel/openresty:1.21.4.3-3-2-focal
 xhofe/alist:v3.35.0
 filebrowser/filebrowser:v2.30.0
+nocodb/nocodb:0.251.3
