@@ -10,3 +10,4 @@ filebrowser/filebrowser:v2.30.0
 nocodb/nocodb:0.251.3
 vaultwarden/server:1.31.0
 b3log/siyuan:v3.1.2
+razvanilin/chartbrew:v3.8.0
