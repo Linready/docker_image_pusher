@@ -10,3 +10,4 @@ filebrowser/filebrowser:v2.31.1
 nocodb/nocodb:0.251.3
 vaultwarden/server:1.32.0
 b3log/siyuan:v3.1.6
+mikolatero/vlmcsd
