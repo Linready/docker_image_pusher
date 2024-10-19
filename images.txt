@@ -8,6 +8,6 @@ mysql:8.2.0
 xhofe/alist:v3.37.2
 filebrowser/filebrowser:v2.31.1
 nocodb/nocodb:0.251.3
-vaultwarden/server:1.32.0
+vaultwarden/server:1.32.2
 b3log/siyuan:v3.1.6
 mikolatero/vlmcsd
