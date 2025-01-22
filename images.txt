@@ -11,3 +11,4 @@ nocodb/nocodb:0.260.2
 vaultwarden/server:1.32.5
 b3log/siyuan:v3.1.6
 mikolatero/vlmcsd
+gitea/gitea:1.21.1
