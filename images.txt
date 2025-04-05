@@ -6,11 +6,12 @@ nginx
 mysql:8.2.0
 1panel/openresty:1.21.4.3-3-2-focal
 xhofe/alist:v3.42.0
-filebrowser/filebrowser:v2.31.2
-nocodb/nocodb:0.260.2
-vaultwarden/server:1.32.5
-b3log/siyuan:v3.1.6
+filebrowser/filebrowser:v2.32.0
+nocodb/nocodb:0.262.5
+vaultwarden/server:1.33.2
+b3log/siyuan:v3.1.26
 mikolatero/vlmcsd
 gitea/gitea:1.21.1
 baserow/baserow:1.31.0
 mayswind/ezbookkeeping:latest
+seatable/seatable-developer:5.2.0
