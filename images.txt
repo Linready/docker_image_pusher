@@ -15,3 +15,4 @@ gitea/gitea:1.21.1
 baserow/baserow:1.31.0
 mayswind/ezbookkeeping:latest
 seatable/seatable-developer:5.2.0
+metabase/metabase:latest
