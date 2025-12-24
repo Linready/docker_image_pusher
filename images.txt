@@ -9,7 +9,7 @@ xhofe/alist:v3.42.0
 filebrowser/filebrowser:v2.32.0
 nocodb/nocodb:0.263.8
 vaultwarden/server:1.33.2
-b3log/siyuan:v3.2.0
+b3log/siyuan:v3.5.0
 mikolatero/vlmcsd
 mayswind/ezbookkeeping:latest
 seatable/seatable-developer:5.2.0
