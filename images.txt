@@ -7,7 +7,7 @@ mysql:8.2.0
 1panel/openresty:1.21.4.3-3-2-focal
 xhofe/alist:v3.42.0
 filebrowser/filebrowser:v2.32.0
-nocodb/nocodb:0.263.8
+nocodb/nocodb:0.301.2
 vaultwarden/server:1.35.3
 b3log/siyuan:v3.5.0
 mikolatero/vlmcsd
