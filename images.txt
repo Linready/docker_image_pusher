@@ -8,7 +8,7 @@ mysql:8.2.0
 xhofe/alist:v3.42.0
 filebrowser/filebrowser:v2.32.0
 nocodb/nocodb:0.263.8
-vaultwarden/server:1.33.2
+vaultwarden/server:1.35.3
 b3log/siyuan:v3.5.0
 mikolatero/vlmcsd
 mayswind/ezbookkeeping:latest
@@ -16,4 +16,3 @@ seatable/seatable-developer:5.2.0
 gogs/gogs:0.13.3
 neosmemo/memos:stable
 rustfs/rustfs:latest
-minio/minio:latest
