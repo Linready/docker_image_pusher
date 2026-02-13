@@ -15,3 +15,5 @@ mayswind/ezbookkeeping:latest
 seatable/seatable-developer:5.2.0
 gogs/gogs:0.13.3
 neosmemo/memos:stable
+rustfs/rustfs:latest
+minio/minio:latest
