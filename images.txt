@@ -16,3 +16,4 @@ gogs/gogs:0.13.3
 neosmemo/memos:stable
 rustfs/rustfs:latest
 guovern/iptv-api:latest
+adguard/adguardhome:v0.107.72
