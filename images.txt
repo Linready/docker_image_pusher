@@ -17,3 +17,4 @@ neosmemo/memos:stable
 rustfs/rustfs:latest
 guovern/iptv-api:latest
 adguard/adguardhome:v0.107.72
+agentscope/copaw:v0.0.7
